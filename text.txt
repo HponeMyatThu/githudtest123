@@ -1,7 +1,8 @@
-My name is HponeMyatThu.
-I am in ojt batch-9.
-non metal
-liquid 
-solid
-gas
-null
+My name is CZe.
+I am gamer.
+fluffly
+java
+c++
+C#
+phyton
+thymeleaf spring boot
